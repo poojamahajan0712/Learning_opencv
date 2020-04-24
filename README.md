@@ -1,4 +1,4 @@
 # opencv_prac
 
-I have created this repository while learning opencv 
+Created this repository while learning opencv <br>
 Ch1 - Pixel Manipulation and Applying Filters 
