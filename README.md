@@ -1,7 +1,12 @@
-# Learning OpenCv
-<hr>
+# Learning OpenCv<hr>
 
-Created this repository while learning opencv <hr>
-* Ch1 - Notebook1 -Pixel Manipulation and Applying Filters , Notebook2 - Scale and Rotate<br>
-* Ch-2 Video Input and Creating basic drawing app
-* Ch-3 - About Segmentation (Simple thresholding and adaptive thresholding , canny edge detection ) , Face detection using HAAR cascades 
+Ch1 - <br>
+* Notebook1 *Pixel Manipulation and Applying Filters 
+* Notebook2 - Scale and Rotate<hr>
+
+Ch-2 - <br>
+* Video Input and Creating basic drawing app<hr>
+
+Ch-3 - <br>
+* Segmentation (Simple thresholding and adaptive thresholding , canny edge detection ) 
+* Face detection using HAAR cascades 
